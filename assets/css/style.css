@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-main {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -24,7 +24,7 @@ main {
     color: #d9dcd6;
 }
 
-.header menu {
+.header nav {
     padding-top: 15px;
     margin-right: 10px;
     float: right;
@@ -32,11 +32,11 @@ main {
     font-size: 23px;
 }
 
-.header menu ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header menu ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 10px;
 }
@@ -47,7 +47,13 @@ a {
 }
 
 dfn {
-    font-size: 24px;
+    font-size: 26px;
+}
+
+p {font-size: 20px;
+    
+
+
 }
 
 .hero {
